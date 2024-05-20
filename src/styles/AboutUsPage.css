@@ -1,0 +1,22 @@
+.about-us-page {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-us-page h1, .about-us-page h2 {
+    color: #343a40;
+  }
+  
+  .about-us-page p {
+    color: #6c757d;
+    line-height: 1.6;
+  }
+  
+  .about-us-page .img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,21 @@
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-top: 1px solid #e9ecef;
+  }
+  
+  .footer .footer-text {
+    font-size: 0.875rem;
+    color: #6c757d;
+  }
+  
+  .footer p {
+    margin: 0 0 10px;
+  }
+  
+  .footer a {
+    margin: 0 10px;
+    color: #6c757d;
+    text-decoration: none;
+  }
+  
